@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "EnvironmentSaver",
+"productVersion": "1.1",
+"dataUrl": "Oceanio_UltimateVersion.data.unityweb",
+"wasmCodeUrl": "Oceanio_UltimateVersion.wasm.code.unityweb",
+"wasmFrameworkUrl": "Oceanio_UltimateVersion.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.15f1"
+}
