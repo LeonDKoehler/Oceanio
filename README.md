@@ -4,7 +4,7 @@ To play Oceanio, please visit: https://leondkoehler.github.io/Oceanio/
 -------------------------------
 
 This Version is NOT the Google Play Version, which has additional functions (like Camera Movement)
-The Google Play Version is currently in review by Google and will be uploaded to the Play Store on 22nd June 2020 at the most
+The Google Play Version is currently in review by Google and will be uploaded to the Play Store on 22nd June 2020 at the most.
 After I receive the publishing notification from Google, I will publish the Play Store Link in this README folder
 
 --------------------------------
