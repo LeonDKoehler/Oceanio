@@ -25,7 +25,7 @@ The goal of the game is to free up the ocean off plastic and the algae bloom cau
   Move the player to a water-tile with plastic. On the bottom-right corner you will see a button. If you have at least 2 Stars (you can see your Star-Amount in the upper-left corner) you can click the button and remove the plastic from the water. Now you have created the perfect conditions for fish to thrive.
   
 - Remove Algae Bloom:                 
-  To stop the algae from spreading, find the cause of the problem by moving the player around the map. If you find thee cause, just click on the green circle to remove the algae bloom source. 
+  To stop the algae from spreading, find the cause of the problem by moving the player around the map. If you find the cause, just click on the green circle to remove the algae bloom source. 
   
 - Populate water with fish:                                 
   To populate the ocean, the player needs to stand on a water tile (without algae or plastic) and have at least 3 Stars. If this is the case, a button will be available (bottom right corner) to populate the water tile with fish.
