@@ -31,4 +31,4 @@ The goal of the game is to free up the ocean off plastic and the algae bloom cau
   To populate the ocean, the player needs to stand on a water tile (without algae or plastic) and have at least 3 Stars. If this is the case, a button will be available (bottom right corner) to populate the water tile with fish.
   
 - Populate water with coral reef:                 
-  Coral reefs produce one star every turn, so they are crucial for making any progress in the game. To create the perfect conditions for coral reefs, just stand on a fish tile and have at least 5 Stars. Now, again with a button, you can create your coral reefs.
+  Coral reefs produce one star every turn, so they are crucial for making any progress in the game. To create the perfect conditions for coral reefs, just stand on a fish tile and have at least 5 Stars. Now, again with a button, you can create the coral reefs.
