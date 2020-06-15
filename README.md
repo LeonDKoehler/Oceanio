@@ -22,7 +22,7 @@ To find all aspects of the game, the user needs to move the player to every loca
 The goal of the game is to free up the ocean off plastic and the algae bloom cause, and to build a beautiful marine ecosystem.
 
 - Remove Plastic:
-  Move the player to a water-tile with plastic. On the bottom-right corner you will see a button. If you have at least 2 Stars (you can see your Star-Amount in the upper-left corner) you can click the button and remove the plastic from the water. Now you have created th perfect conditions for fish.
+  Move the player to a water-tile with plastic. On the bottom-right corner you will see a button. If you have at least 2 Stars (you can see your Star-Amount in the upper-left corner) you can click the button and remove the plastic from the water. Now you have created the perfect conditions for fish to thrive.
   
 - Remove Algae Bloom
   To stop the algae from spreading, find the cause of the problem by moving the player around the map. If you finnd th cause, just click on the green circle to remove the algae bloom source. 
