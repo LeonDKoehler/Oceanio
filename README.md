@@ -1,6 +1,7 @@
 # Oceanio
 -------------------------------
-To play Oceanio, please visit: https://leondkoehler.github.io/Oceanio/
+# To play Oceanio, please visit: https://leondkoehler.github.io/Oceanio/
+
 -------------------------------
 
 This Version is NOT the Google Play Version, which has additional functions (like Camera Movement)
@@ -13,7 +14,8 @@ Thank you for trying out my game Oceanio. It is designed to give you a better un
 I hope you have fun and learn something, while playing my game. If you have any questions, or you found bugs in my game (add a screenshot), please write an email to Leondakoe@gmail.com 
 
 --------------------------------
-Oceanio is a scholarship-entry for the "Ocean Awareness Program" by bowseat.org 
+# Oceanio is a scholarship-entry for the "Ocean Awareness Program" by bowseat.org 
+
 --------------------------------
 
 ## How to play:    
