@@ -3,7 +3,6 @@
 ## To play Oceanio in a browser, please visit: https://leondkoehler.github.io/Oceanio/
 
 ## To play Oceanio on Android, please visit: https://play.google.com/store/apps/details?id=com.DefaultCompany.EnvironmentSaver
--------------------------------
 The Google Play version of the game has some additional functions, like touch control, and camera movement
 
 --------------------------------
