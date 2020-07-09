@@ -16,8 +16,8 @@ I hope you have fun and learn something, while playing my game. If you have any 
 --------------------------------
 
 ## How to play:    
-To find all aspects of the game, the user needs to move the player to every location. To do this, just click on the player and then on the white spots, which show possible movements in the current turn. If you moved your player, please click the turn button in the bottom left corner. This will start the next turn and allows you to move the player around the map. With the stars (the currency of Oceanio) you can positively change the ocean (more on that in the following lines). 
-The goal of the game is to free up the ocean off plastic and the algae bloom cause, and to build a beautiful marine ecosystem.
+To find all aspects of the game, the user needs to move the player to every location. To do this, just click on the player and then on the white spots, which show possible movements in the current turn. If you have moved your player, please click the turn button in the bottom left corner. This will start the next turn and allows you to move the player further around the map. With stars (the currency of Oceanio) you can positively change the ocean (more on that in the following lines). 
+### The goal of the game is to free up the ocean off plastic and the algae bloom cause, and to build a beautiful marine ecosystem.
 
 - ### Remove Plastic:                     
   Move the player to a water-tile with plastic. On the bottom-right corner you will see a button. If you have at least 2 Stars (you can see your Star-Amount in the upper-left corner) you can click the button and remove the plastic from the water. Now you have created the perfect conditions for fish to thrive.
